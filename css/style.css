@@ -1,0 +1,23 @@
+/*slider*/
+.carousel-inner .img-slider {
+  width: 100%;
+  height: auto;
+  margin: 0 auto; }
+
+.navbar-default {
+  background: #000;
+  border: 0;
+  border-radius: 0; }
+
+.caja {
+  margin: 1% auto 0 auto;
+  display: block; }
+
+.ite {
+  height: auto;
+  margin: 0;
+  display: block; }
+  .ite img {
+    width: 100%;
+    height: auto;
+    border-radius: 5px; }

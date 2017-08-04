@@ -1,0 +1,37 @@
+$negro:#000;
+$blanco:#fff;
+$red:red;
+$verde: green;
+// --------------------
+
+/*slider*/
+.carousel-inner{
+	.img-slider{
+		width: 100%;
+		height: auto;
+		margin:0 auto;
+	}
+}
+
+// nav
+.navbar-default{
+	background: $negro;
+	border:0;
+	border-radius:0;	
+}
+
+// tres
+.caja{
+	margin:1% auto 0 auto;
+	display: block;
+}
+.ite{
+	height: auto;
+	margin:0 ;
+	display: block;		
+	img{
+		width: 100%;
+		height: auto;
+		border-radius:5px;
+	}
+}
